@@ -1,2 +1,2 @@
 # basic
-basc
+print (" hii ")
